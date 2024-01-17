@@ -1,0 +1,9 @@
+Improvements
+************
+- Better method names
+- Ensure all methods have correct return types
+- Introduce better component architecture
+
+Known Issues
+************
+- Undefined returned for countries without a score
